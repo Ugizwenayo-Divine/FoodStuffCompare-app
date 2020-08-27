@@ -1,0 +1,929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"srt",
+				"str2"
+			],
+			[
+				"fet",
+				"fetchCountries"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"city",
+				"city_population"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"foun",
+				"foundArr"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"p",
+				"population"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"DAt",
+				"DateTime"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"left",
+				"leftUl"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"l",
+				"left\tfloat"
+			],
+			[
+				"hi",
+				"hidden\tvisibility"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"PADD",
+				"padding-top\tproperty"
+			],
+			[
+				"mrg",
+				"margin-top\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bored",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"large",
+				"larger\tfont-size"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"M",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"inline",
+				"inline-flex\tdisplay"
+			],
+			[
+				"border-",
+				"border-top\tproperty"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"de",
+				"text-decoration\tproperty"
+			],
+			[
+				"c",
+				"clear\tproperty"
+			],
+			[
+				"background",
+				"background-attachment\tproperty"
+			],
+			[
+				"backgroun",
+				"background-position\tproperty"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"b",
+				"bs3-select\tbs3-select"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"pAD",
+				"padding-left\tproperty"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"boe",
+				"border-radius\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"no",
+				"not"
+			],
+			[
+				"ge",
+				"getElementsByName"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"new",
+				"newnurse"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"on",
+				"onkeypress\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"nike",
+				"nike_air"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"borde",
+				"border-left\tproperty"
+			],
+			[
+				"flex-",
+				"flex-flow\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"ra",
+				"border-radius\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"max-height\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ou",
+				"outline-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"devanagari\tlist-style-type"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"bs3-ta",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"bs3-co",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"nu",
+				"number1"
+			],
+			[
+				"number",
+				"number2"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"ys",
+				"yesno"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/mysql/data/my.ini",
+			"settings":
+			{
+				"buffer_size": 46,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/try.php",
+			"settings":
+			{
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/php/pear/PHPUnit/TextUI/Command.php",
+			"settings":
+			{
+				"buffer_size": 28938,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n$(\"#register-submit\").on('click', function (event) {\n\n                            if ($(\"#reg_username\").val() !== \"\" && $(\"#reg_email\").val() !== \"\" && checkPass()) {\n                                $(\"#register-submit\").attr(\"disabled\", true);\n                                $.ajax({\n                                    async: true,\n                                    url: \"php_scripts/register_panda_user.php\",\n                                    data: 'username=' + $(\"#reg_username\").val() + '&email=' + $(\"#reg_email\").val() + '&password=' + $(\"#reg_password\").val(),\n                                    type: \"POST\",\n                                    success: function (data) {\n                                        if (data.includes(\"great\")) {\n                                            $(\"#register-submit\").attr(\"disabled\", false);\n\n                                            window.location.href = \"mainpage.php\";\n\n                                        } else if (data.includes(\"duplicateemail\")) {\n                                            alert(\"Email already exists\");\n                                            $(\"#register-submit\").attr(\"disabled\", false);\n\n                                        } else {\n                                            alert(\"Error occured!\");\n                                            $(\"#register-submit\").attr(\"disabled\", false);\n\n                                        }\n                                    },\n                                    error: function () {\n                                        alert(\"There is a connection problem, try again!\");\n                                        $(\"#register-submit\").attr(\"disabled\", false);\n\n\n                                    }\n                                });\n                            } else {\n                                alert(\"Check your inputs\");\n                            }\n                        });\n?>",
+			"settings":
+			{
+				"buffer_size": 1954,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"cdn",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/try.php",
+		"/C/xampp/mysql/data/my.ini",
+		"/C/Users/DIVINE/Desktop/FoodStuffCompare-app/src/config/config.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/controllersV2/userController.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/controllersV2/announcementController.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/helpers/validation.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/routesV2/announcementRoutes.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/package.json",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/modelsV2/createTables.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/modelsV2/user.js",
+		"/C/Users/DIVINE/Downloads/startbootstrap-creative-gh-pages/css/styles.css",
+		"/C/Users/DIVINE/Desktop/RICA-INC/Procfile",
+		"/C/Users/DIVINE/Desktop/stackup2-barefoot-frontend/package.json",
+		"/C/Users/DIVINE/Desktop/RICA-INC/server/middleware/advertisementValidation.js",
+		"/C/Users/DIVINE/Desktop/RICA-INC/server/helpers/validation.js",
+		"/C/Users/DIVINE/Downloads/id_rsa.ppk",
+		"/C/Users/DIVINE/Desktop/stackup2-barefoot-backend/README.md",
+		"/C/Users/DIVINE/Desktop/FoodStuffCompare-app/README.md",
+		"/C/Users/DIVINE/Desktop/application/Application_form_English.doc",
+		"/C/Users/DIVINE/Super_Markets/index.html",
+		"/C/Users/DIVINE/Downloads/original (5).css",
+		"/C/Users/DIVINE/Downloads/original (4).css",
+		"/C/Users/DIVINE/Downloads/original (3).css",
+		"/C/Users/DIVINE/Downloads/original (2).css",
+		"/C/Users/DIVINE/Downloads/original (1).css",
+		"/C/Users/DIVINE/Downloads/original.css",
+		"/C/Users/DIVINE/Desktop/UDemyCourses/styling--02-styled-components/src/Person/Person.js",
+		"/C/Users/DIVINE/Desktop/stackup2-barefoot-backend/.env",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/helpers/token.js",
+		"/C/Users/DIVINE/Desktop/application/.htaccess",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/.env",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/modelsV2/announcementQueries.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/db/index.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/models/user.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/routes/userRoutes.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/models/announcement.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/models/userdb.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/testV2/announcement.spec.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/testV2/auth.spec.js",
+		"/F/A14Cycle/Express-Node/src/usingJSObject/models/student.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/controllers/userController.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/server2/src/server.js",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/.travis.yml",
+		"/C/Users/DIVINE/Desktop/Andela/Announce-IT/UI/CSS/style.css",
+		"/C/Users/DIVINE/Downloads/Compressed/city.list.json~1/city.list.json",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/README.md",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/.travis.yml",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/package.json",
+		"/C/Users/DIVINE/Desktop/Student-React/app/index.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/models/announcement.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/routes/announcementRoutes.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/controllers/announcementController.js",
+		"/C/Users/DIVINE/Desktop/Restaurant-listing/CSS/style.css",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/server/v2/db/connection.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/.travis.yml",
+		"/C/Users/DIVINE/Desktop/Broadcaster/.coveralls.yml",
+		"/C/Users/DIVINE/Desktop/ter.html",
+		"/C/Users/DIVINE/Desktop/Divine2019Study/IONIC/course/index.html",
+		"/C/Users/DIVINE/Desktop/Divine2019Study/dinyproject/FirstHtml.html",
+		"/C/Users/DIVINE/Desktop/Restaurant-listing/UI/home-page.html",
+		"/F/A14Cycle/Express-Node/package.json",
+		"/F/A14Cycle/express-demo/index.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/app.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/controllers/userController.js",
+		"/C/Users/DIVINE/OneDrive/server.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/db/index.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/models/createTables.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/models/dropTables.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/models/user.js",
+		"/F/A14Cycle/async-demo/index.js",
+		"/F/A14Cycle/Express-Node/src/routes/studentRoutes.js",
+		"/F/A14Cycle/Express-Node/server.js",
+		"/F/A14Cycle/express-demo/routes/course.js",
+		"/F/A14Cycle/express-demo/models/courseModel.js",
+		"/F/A14Cycle/express-demo/controllers/courseController.js",
+		"/F/A14Cycle/Express-Node/src/usingJSObject/controllers/controllerStudent.js",
+		"/F/A14Cycle/Express-Node/src/usingDB/db/index.js",
+		"/F/A14Cycle/Express-Node/src/usingDB/controllers/studentController.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V2/helpers/validation.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V2/db/index.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V2/controllers/userController.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V2/controllers/announcementController.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/controllers/announcementController.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/controllers/userController.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/helpers/validation.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/models/announcement.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/models/announcementdb.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/models/user.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/models/userdb.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/routes/announcementRoutes.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/src/V1/routes/userRoutes.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/test/announcement.spec.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/test/auth.spec.js",
+		"/F/A14Cycle/Express-Node/db.js",
+		"/F/A14Cycle/Express-Node/.env",
+		"/C/Users/DIVINE/Desktop/testing/UI/createIntervention-page.html",
+		"/C/Users/DIVINE/Desktop/Divine2019Study/dinyproject/Signin.html",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/package.json",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/src/config/config.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v2/test/auth.test.js",
+		"/C/Users/DIVINE/Desktop/AnnounceIT/server2/.env",
+		"/C/Users/DIVINE/Desktop/Broadcaster/package.json",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v2/config/connection.js",
+		"/F/NodeJS/05 Express- Advanced Topics/061 Environments.mp4",
+		"/F/A14Cycle/CRUDMongodb-demo/index.js",
+		"/F/A14Cycle/7.14- Exercise/index.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/routes/auth.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/routes/red-flags.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/test/auth.test.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/test/red-flag.test.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/models/user.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/middlewares/uuidGenerator.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/middlewares/fileHandler.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/controllers/redflagController.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/controllers/authController.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/helpers/authValidator.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster/server/v1/middlewares/isloggedin.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/server/v2/controllers/userController.js",
+		"/C/Users/DIVINE/Desktop/Broadcaster-develop/server/v2/models/users.js",
+		"/C/Users/DIVINE/Desktop/trialbroad/UI/createIntervention.html",
+		"/C/Users/DIVINE/Desktop/geolocation.html",
+		"/F/A14Cycle/htmlfile/index.html",
+		"/C/Users/DIVINE/Desktop/Divine2019Study/JavaScript/try.js",
+		"/C/Users/DIVINE/Downloads/Compressed/OS work/rename.bat",
+		"/F/A14Cycle/jsfile/first.js",
+		"/C/Users/DIVINE/Downloads/Compressed/OS work/create.bat",
+		"/C/Users/DIVINE/eclipse-workspace/hrmis20917/build/classes/auca/web/final20917/controller/EmployeeController.class",
+		"/C/Users/DIVINE/Desktop/Divine2019Study/JavaScript/first.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"woodbridge",
+			" Willingboro",
+			" willingboro",
+			"congo",
+			"Concelho",
+			"santa maria",
+			"hover",
+			"img",
+			"des",
+			"img",
+			"descri",
+			"descr",
+			"img",
+			"real",
+			"block",
+			"main",
+			"body",
+			".collapse ",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/mysql/data/my.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/try.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/php/pear/PHPUnit/TextUI/Command.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8633,
+								8633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6762.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1951,
+								1951
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
